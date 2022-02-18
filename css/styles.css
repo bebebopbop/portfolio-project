@@ -1,0 +1,21 @@
+h1 {
+    color: #002e3b;
+    font-family: 'Rubik', sans-serif;
+    font-size: 5rem;
+}
+
+p {
+    font-family:  'Gentium Basic', serif;
+    font-size: 1.5rem;
+}
+
+.jumbotron {
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 33%, #006682);
+}
+
+.input-group.md-form.form-sm.form-1 input{
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+  }

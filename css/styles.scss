@@ -1,0 +1,16 @@
+$color-primary: #004c60;
+$color-secondary: #35accd;
+
+
+$header-font: 'Rubik', sans-serif;
+$body-font: 'Gentium Basic', serif;
+
+
+h1 {
+    color: $color-primary;
+    font-family: $headerfont;
+}
+
+p {
+    font-family: $body-font;
+}
